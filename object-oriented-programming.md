@@ -119,7 +119,7 @@ print(m.add(2, 3, 4))
 
 ## Method Overriding
 
-Child class redefines method of parent class.
+Same method name in parent and child class, but child class provides its own implementation.
 
 ``` python
 class Animal:
