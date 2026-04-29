@@ -2,8 +2,7 @@
 
 ## Simple Definition (Interview-Friendly)
 
-OOP is a programming paradigm where we use objects to encapsulate data
-(variables) and behavior (methods) together.
+Object-Oriented Programming (OOPS) is a programming paradigm that uses objects to represent real-world entities. In Python, OOPS is implemented through classes and objects. Classes are blueprints for creating objects, and objects are instances of a class.
 
 ------------------------------------------------------------------------
 
