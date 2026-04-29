@@ -88,6 +88,8 @@ for obj in (Dog(), Cat()):
 
 ### 6. Abstraction (Hide Complexity)
 
+Show only important details, hide implementation.
+
 ``` python
 from abc import ABC, abstractmethod
 
