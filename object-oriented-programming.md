@@ -10,7 +10,7 @@ Object-Oriented Programming (OOPS) is a programming paradigm that uses objects t
 
 ### 1. Class (Blueprint)
 
-A class is a template to create objects.
+A class is a template or blueprint for create objects.
 
 ``` python
 class Car:
