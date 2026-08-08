@@ -1,4 +1,4 @@
-# Custom Decorator in Python
+# decorator with arguments Python
 
 ```python
 def log_call(func):
