@@ -2,7 +2,7 @@
 
 ## Definition
 
-**Inheritance** allows a child class to reuse the properties and methods of a parent class.**.
+**Inheritance** allows a child class to reuse the properties and methods of a parent class.
 
 It allows **code reuse** and represents an **"is-a" relationship**.
 
