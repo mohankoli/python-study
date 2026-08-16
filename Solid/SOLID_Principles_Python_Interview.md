@@ -97,7 +97,7 @@ Now we can add a new payment type without changing existing classes.
 
 ## 3. L — Liskov Substitution Principle (LSP)
 
-> A child class should be usable wherever its parent class is expected **without breaking the program**.
+>A child class should be able to replace its parent class without breaking the code..
 
 ### ❌ Bad Example
 
