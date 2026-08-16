@@ -143,7 +143,7 @@ Now `Penguin` does not inherit behavior that it cannot support.
 
 ## 4. I — Interface Segregation Principle (ISP)
 
-> A class should not be forced to depend on methods it does not use.
+>Don’t force a class to implement methods it doesn’t need.
 
 Python does not have a `interface` keyword like Java, but we can use **abstract base classes** to design small interfaces.
 
